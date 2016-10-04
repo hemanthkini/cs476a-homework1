@@ -1,0 +1,12 @@
+﻿  juce_audio_utils.cpp
+  MainComponent.cpp
+c:\users\hemanth\dropbox\development\basicaudio\source\sine.h(27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\hemanth\dropbox\development\basicaudio\source\sine.h(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\hemanth\dropbox\development\basicaudio\source\sine.h(37): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\hemanth\dropbox\development\basicaudio\source\maincomponent.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hemanth\dropbox\development\basicaudio\source\maincomponent.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hemanth\dropbox\development\basicaudio\source\maincomponent.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hemanth\dropbox\development\basicaudio\source\maincomponent.cpp(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hemanth\dropbox\development\basicaudio\source\maincomponent.cpp(103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hemanth\dropbox\development\basicaudio\source\maincomponent.cpp(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BasicAudio.vcxproj -> C:\Users\Hemanth\Dropbox\Development\BasicAudio\Builds\VisualStudio2015\Debug\BasicAudio.exe
